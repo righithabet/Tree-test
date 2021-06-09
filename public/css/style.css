@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+.row {
+    justify-content: center;
+}
+
+.tree {
+    font-size: 24px;
+}
+
+.tree-root-name {
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.tree-root-node {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.card {
+    border: none;
+}
+
+.card-header-home {
+    background-color: #ffc107;
+}
